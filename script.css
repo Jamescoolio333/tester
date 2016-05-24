@@ -1,0 +1,12 @@
+.circle {
+  border-radius: 100%;
+  border: 2px solid green;
+  background-color: lime;
+  transformation-duration: 0.5s;
+}
+  
+.circle:hover {
+  border: 5px solid green;
+  background-color: #ADD8E6;
+  transformation-duration: 0.5s;
+}
